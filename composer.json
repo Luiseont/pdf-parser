@@ -1,0 +1,8 @@
+{
+    "name":"parse/dev",
+    "description": "Archivo para importar y generar excel desde pdf",
+    "require": {
+        "smalot/pdfparser": "*",
+        "phpoffice/phpspreadsheet": "^1.14"
+    }
+}
